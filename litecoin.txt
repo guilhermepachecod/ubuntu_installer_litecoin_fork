@@ -1,0 +1,6 @@
+Name: litecoin /nome da coin
+block time: 15sec  / bitcoin 10m usually 15sec e 2min
+difficulty retarget time: 1hr /1 hr to 1 day
+initial coin per block: 100 /usually 2 to 100
+How long you want coins per block be halved: 3y /Usually it's 6 month to 3 years
+Ports, you need two: /connection and RPC ports
